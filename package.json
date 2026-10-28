@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-noirlab-datalab",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NOIRLab Astro Data Lab — datalab.noirlab.edu.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-769f9b0496badae3bc4dacd4abf9b425b3ce52fefe1f10c79564b2f4d5ee8914",
-    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
+    "sourceHash": "v1-60ef725f2185ea9f1a0819c39e1887323393c0c200836f66e48ae1b92743b646",
+    "sourceCommit": "774de7f685a75e02d0b828d24a7b94794102152c"
   }
 }
